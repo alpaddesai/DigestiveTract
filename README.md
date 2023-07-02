@@ -2,8 +2,8 @@
 
 ![image](DigestiveTract.jpg)
 
-![image](USCopyrightCertificate)
+![image](USCopyrightCertificate.png)
 
-![image](EthicsandExcellence)
+![image](EthicsandExcellence.png)
 
 Additional details reference https://github.com/alpaddesai/LifeStyle
